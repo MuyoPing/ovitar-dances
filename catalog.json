@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "107419511742476",
+      "name": "저코르티솔",
+      "aliases": [
+        "MyDance (2).json"
+      ],
+      "nameEvidence": "Roblox asset title",
+      "dance": {
+        "file": "dance-107419511742476.json",
+        "bytes": 431672,
+        "sha256": "815edca12a01013149d5e0f16ccba6eadf1191f41aa19c1a20882b9a21b04207"
+      },
+      "music": {
+        "file": "music-107419511742476.wav",
+        "bytes": 5812268,
+        "sha256": "b7412cd38867bd46adaa3fbc4b4d02e07e3c1d47efaa9ae1502c96900f10cd61",
+        "localFile": "Animations/Music/music-107419511742476.wav"
+      }
+    },
+    {
+      "id": "80641587562132",
+      "name": "헤드록 2",
+      "aliases": [
+        "MyDance.json"
+      ],
+      "nameEvidence": "Roblox asset title",
+      "dance": {
+        "file": "dance-80641587562132.json",
+        "bytes": 343512,
+        "sha256": "14f25674306f452a0656f2126766a10560189eb33a41245371a301697cf1981e"
+      },
+      "music": null
+    },
+    {
+      "id": "107275133947312",
+      "name": "팔 뻗기 스텝",
+      "aliases": [
+        "Rat Dance (2).json"
+      ],
+      "nameEvidence": "pose description; original title unconfirmed",
+      "dance": {
+        "file": "dance-107275133947312.json",
+        "bytes": 230146,
+        "sha256": "65d4c3ec6c624e16340874062d1ac669229a29cee829aba57d8cc7d7a0fd36fd"
+      },
+      "music": {
+        "file": "music-107275133947312.wav",
+        "bytes": 8212524,
+        "sha256": "aea0fffe38d660af97254a18e04f0492d1f98f0e2eac4ad9bce75865f38196e7",
+        "localFile": "Animations/Music/music-107275133947312.wav"
+      }
+    },
+    {
+      "id": "126271443897103",
+      "name": "빠른 팔 교차",
+      "aliases": [
+        "Rat Dance (3).json"
+      ],
+      "nameEvidence": "pose description; original title unconfirmed",
+      "dance": {
+        "file": "dance-126271443897103.json",
+        "bytes": 12612,
+        "sha256": "fe7f176921908bdc20254b77fe022c20ad55ac9d0f043756801d4cf52ecaf10c"
+      },
+      "music": {
+        "file": "music-126271443897103.wav",
+        "bytes": 3190828,
+        "sha256": "fc9b90d718ada2a5a47fa86f53551d40a2f158fd710c619644999f6884645ac9",
+        "localFile": "Animations/Music/music-126271443897103.wav"
+      }
+    },
+    {
+      "id": "103597509139287",
+      "name": "양팔 올리기 스웨이",
+      "aliases": [
+        "Rat Dance (4).json"
+      ],
+      "nameEvidence": "pose description; original title unconfirmed",
+      "dance": {
+        "file": "dance-103597509139287.json",
+        "bytes": 66384,
+        "sha256": "c72ccea41afa8da98c12449f8d6701731cd64f73270bfe2ca736b9f36fd72c39"
+      },
+      "music": {
+        "file": "music-103597509139287.wav",
+        "bytes": 2244652,
+        "sha256": "a243f45662808a4ffe9278ff0a1e4d4bbb8b519984088ab3801fb89c2715e270",
+        "localFile": "Animations/Music/music-103597509139287.wav"
+      }
+    },
+    {
+      "id": "86090015988657",
+      "name": "Livesey Walk",
+      "aliases": [
+        "Rat Dance (5).json"
+      ],
+      "nameEvidence": "Roblox asset title",
+      "dance": {
+        "file": "dance-86090015988657.json",
+        "bytes": 47944,
+        "sha256": "0ae1102d9f5fb4d6fd8f4b8644bc12da4f3ae1e28ee28d6704299f9e4f632e56"
+      },
+      "music": {
+        "file": "music-86090015988657.wav",
+        "bytes": 1544236,
+        "sha256": "4f63394e2321b8475ff9d0929c299e4e746bffa775ac1e230b863ca79e628a68",
+        "localFile": "Animations/Music/music-86090015988657.wav"
+      }
+    },
+    {
+      "id": "119560486682969",
+      "name": "사이드 스텝과 팔 스윙",
+      "aliases": [
+        "Rat Dance (6).json"
+      ],
+      "nameEvidence": "pose description; original title unconfirmed",
+      "dance": {
+        "file": "dance-119560486682969.json",
+        "bytes": 298233,
+        "sha256": "1af76848a9c6d4f03fd35582653ff706fe4a45c0731d2222f4420a32581db6c3"
+      },
+      "music": {
+        "file": "music-119560486682969.wav",
+        "bytes": 2474028,
+        "sha256": "40bcabf2db83fce5d67595b1902753b6d7c756c8ee572f2225243e910a4ef91e",
+        "localFile": "Animations/Music/music-119560486682969.wav"
+      }
+    },
+    {
+      "id": "92465380908628",
+      "name": "크로스 스텝과 턴",
+      "aliases": [
+        "Rat Dance (7).json"
+      ],
+      "nameEvidence": "pose description; original title unconfirmed",
+      "dance": {
+        "file": "dance-92465380908628.json",
+        "bytes": 479169,
+        "sha256": "8f8739a1e59ae1cf70ba528561a43ed74ce9cea7431e11353c6144569c90b3dc"
+      },
+      "music": {
+        "file": "music-92465380908628.wav",
+        "bytes": 4304940,
+        "sha256": "e43ac6dc05703ef3ffe8799a4ed415b8c2fb3ba4b1d1e8225f5af2a191ba2f54",
+        "localFile": "Animations/Music/music-92465380908628.wav"
+      }
+    },
+    {
+      "id": "134808587111652",
+      "name": "한팔 들고 제자리 스텝",
+      "aliases": [
+        "Rat Dance (8).json"
+      ],
+      "nameEvidence": "pose description; original dance title unconfirmed",
+      "dance": {
+        "file": "dance-134808587111652.json",
+        "bytes": 28064,
+        "sha256": "6ca97712042e105bfcc42268a03dae7c360cfa7c98456168627c46e1dcc6db50"
+      },
+      "music": {
+        "file": "music-134808587111652.wav",
+        "bytes": 6705196,
+        "sha256": "7fbb58d21291e8348ffa4adafc4b1d06421e3edf3e71abf1cda96def4ee55a0b",
+        "localFile": "Animations/Music/music-134808587111652.wav"
+      }
+    },
+    {
+      "id": "98260902889120",
+      "name": "Rat Dance",
+      "aliases": [
+        "Rat Dance.json"
+      ],
+      "nameEvidence": "existing recording label; original title unconfirmed",
+      "dance": {
+        "file": "dance-98260902889120.json",
+        "bytes": 331630,
+        "sha256": "239b19827055ac6e3a007ba3d9d22acfb1d3b65933c44ccd25f151504dbe88f4"
+      },
+      "music": {
+        "file": "music-98260902889120.wav",
+        "bytes": 3260460,
+        "sha256": "39f0d769fd4735715b408335275291850afb66afde8c0e842fbadc8e1951319d",
+        "localFile": "Animations/Music/music-98260902889120.wav"
+      }
+    },
+    {
+      "id": "86067433847393",
+      "name": "난장판",
+      "aliases": [
+        "난장판.json"
+      ],
+      "nameEvidence": "existing recording label; original title unconfirmed",
+      "dance": {
+        "file": "dance-86067433847393.json",
+        "bytes": 654356,
+        "sha256": "19d8512b5173a48a28e48db776ef9aa49046252af5415d958626e00872b96a3c"
+      },
+      "music": {
+        "file": "music-86067433847393.wav",
+        "bytes": 2793516,
+        "sha256": "a9fe3afc0d91066ea51d9e68a545c9d539981bd45b8af72297a0d15dc53e1aa4",
+        "localFile": "Animations/Music/music-86067433847393.wav"
+      }
+    },
+    {
+      "id": "122216349954401",
+      "name": "버드브레인",
+      "aliases": [
+        "렛츠 그루브 (2).json"
+      ],
+      "nameEvidence": "Roblox asset title: carlos and cane",
+      "dance": {
+        "file": "dance-122216349954401.json",
+        "bytes": 1509657,
+        "sha256": "e80237c233a7e93fc3a738fb9a54762b4bb18e87c29c1a25ddfb343e32c2868e"
+      },
+      "music": {
+        "file": "music-122216349954401.wav",
+        "bytes": 6328364,
+        "sha256": "acfdc9f9832321daf212f76c39028543f3e218be75c3522c9c54e6eebe3e3363",
+        "localFile": "Animations/Music/music-122216349954401.wav"
+      }
+    },
+    {
+      "id": "107487854492935",
+      "name": "버터 하우스",
+      "aliases": [
+        "렛츠 그루브 (3).json"
+      ],
+      "nameEvidence": "Roblox asset title",
+      "dance": {
+        "file": "dance-107487854492935.json",
+        "bytes": 64383,
+        "sha256": "ad659eaf336493d644d398fa6ba2a45c8d6502323a8144dd7547ff12baa83493"
+      },
+      "music": {
+        "file": "music-107487854492935.wav",
+        "bytes": 4177964,
+        "sha256": "1de84557449fcfe8fac0469dec4ab2abf9d7e80fad78b27227fba4f56fce2c4a",
+        "localFile": "Animations/Music/music-107487854492935.wav"
+      }
+    },
+    {
+      "id": "114036336168567",
+      "name": "팔 교차 바운스",
+      "aliases": [
+        "렛츠 그루브 (4).json"
+      ],
+      "nameEvidence": "pose description; original title unconfirmed",
+      "dance": {
+        "file": "dance-114036336168567.json",
+        "bytes": 602372,
+        "sha256": "6f5650c6bf5592b917c6a5d2d50a36f1fd5939da3fd1ae4152969a38e1d30892"
+      },
+      "music": {
+        "file": "music-114036336168567.wav",
+        "bytes": 12595244,
+        "sha256": "5233c49bd234b766c4e80167b13dfc5b7f4322b27bd7a0437fced09bbf97c84b",
+        "localFile": "Animations/Music/music-114036336168567.wav"
+      }
+    },
+    {
+      "id": "97941109008483",
+      "name": "Beowulf",
+      "aliases": [
+        "렛츠 그루브 (5).json"
+      ],
+      "nameEvidence": "Roblox asset title",
+      "dance": {
+        "file": "dance-97941109008483.json",
+        "bytes": 336822,
+        "sha256": "bcc23f623c1de9c36fb10a607768f362fde43230db4c2be8043280ba1725fa83"
+      },
+      "music": null
+    },
+    {
+      "id": "105708048353885",
+      "name": "Let's Groove P2",
+      "aliases": [
+        "렛츠 그루브.json"
+      ],
+      "nameEvidence": "Roblox asset title",
+      "dance": {
+        "file": "dance-105708048353885.json",
+        "bytes": 47765,
+        "sha256": "c04b89a259ea26ac7d97e06d9b73cb8adcf91f5c69c4bee3a2c239fa66f33647"
+      },
+      "music": {
+        "file": "music-105708048353885.wav",
+        "bytes": 5840940,
+        "sha256": "d197fb482f23bf08d41679d559bf9b32a8eab2bacb4d30510df306c49e92b1a0",
+        "localFile": "Animations/Music/music-105708048353885.wav"
+      }
+    }
+  ]
+}
