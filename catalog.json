@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "id": "107419511742476",
@@ -10,8 +10,8 @@
       "nameEvidence": "Roblox asset title",
       "dance": {
         "file": "dance-107419511742476.json",
-        "bytes": 431672,
-        "sha256": "815edca12a01013149d5e0f16ccba6eadf1191f41aa19c1a20882b9a21b04207"
+        "bytes": 863536,
+        "sha256": "9135d7fdebc56e5feb440e522938f05e43f0c0b91eb5b1d4b1df45b5ae536cb6"
       },
       "music": {
         "file": "music-107419511742476.wav",
@@ -29,8 +29,8 @@
       "nameEvidence": "Roblox asset title",
       "dance": {
         "file": "dance-80641587562132.json",
-        "bytes": 343512,
-        "sha256": "14f25674306f452a0656f2126766a10560189eb33a41245371a301697cf1981e"
+        "bytes": 687216,
+        "sha256": "bc9430a5f20e78864e8600d100231c54c78755e59e9b95ff9eabd05a15976f76"
       },
       "music": null
     },
@@ -43,8 +43,8 @@
       "nameEvidence": "pose description; original title unconfirmed",
       "dance": {
         "file": "dance-107275133947312.json",
-        "bytes": 230146,
-        "sha256": "65d4c3ec6c624e16340874062d1ac669229a29cee829aba57d8cc7d7a0fd36fd"
+        "bytes": 460484,
+        "sha256": "34b340aa061c764f087bd633cc67c7abf87df92e3e007635503426cf80caa8ef"
       },
       "music": {
         "file": "music-107275133947312.wav",
@@ -62,8 +62,8 @@
       "nameEvidence": "pose description; original title unconfirmed",
       "dance": {
         "file": "dance-126271443897103.json",
-        "bytes": 12612,
-        "sha256": "fe7f176921908bdc20254b77fe022c20ad55ac9d0f043756801d4cf52ecaf10c"
+        "bytes": 25416,
+        "sha256": "cc9ad46bea01599d7c2cc436999b99d766829e1ee5d19f151420cd7fc0639531"
       },
       "music": {
         "file": "music-126271443897103.wav",
@@ -81,8 +81,8 @@
       "nameEvidence": "pose description; original title unconfirmed",
       "dance": {
         "file": "dance-103597509139287.json",
-        "bytes": 66384,
-        "sha256": "c72ccea41afa8da98c12449f8d6701731cd64f73270bfe2ca736b9f36fd72c39"
+        "bytes": 132960,
+        "sha256": "ccfcdb067590580b2878115933a559b0579e704361b66395e2d6dfa4f5a3f494"
       },
       "music": {
         "file": "music-103597509139287.wav",
@@ -100,8 +100,8 @@
       "nameEvidence": "Roblox asset title",
       "dance": {
         "file": "dance-86090015988657.json",
-        "bytes": 47944,
-        "sha256": "0ae1102d9f5fb4d6fd8f4b8644bc12da4f3ae1e28ee28d6704299f9e4f632e56"
+        "bytes": 96080,
+        "sha256": "03198ef8394f168f635a04d285c2e5554b466aeb91ff8ce027789f320e063e80"
       },
       "music": {
         "file": "music-86090015988657.wav",
@@ -119,8 +119,8 @@
       "nameEvidence": "pose description; original title unconfirmed",
       "dance": {
         "file": "dance-119560486682969.json",
-        "bytes": 298233,
-        "sha256": "1af76848a9c6d4f03fd35582653ff706fe4a45c0731d2222f4420a32581db6c3"
+        "bytes": 596658,
+        "sha256": "8af354755d071b30bbc0759833f3e9241a970134a74c6e6a26efffe426247589"
       },
       "music": {
         "file": "music-119560486682969.wav",
@@ -138,8 +138,8 @@
       "nameEvidence": "pose description; original title unconfirmed",
       "dance": {
         "file": "dance-92465380908628.json",
-        "bytes": 479169,
-        "sha256": "8f8739a1e59ae1cf70ba528561a43ed74ce9cea7431e11353c6144569c90b3dc"
+        "bytes": 958530,
+        "sha256": "0f609a3b8d1f8439e5205e97df75f7c6e7fa91c60ff0d16c1a2487e2422a2394"
       },
       "music": {
         "file": "music-92465380908628.wav",
@@ -157,8 +157,8 @@
       "nameEvidence": "pose description; original dance title unconfirmed",
       "dance": {
         "file": "dance-134808587111652.json",
-        "bytes": 28064,
-        "sha256": "6ca97712042e105bfcc42268a03dae7c360cfa7c98456168627c46e1dcc6db50"
+        "bytes": 56320,
+        "sha256": "7106d291f8a8b7a0c13f54bee03d7cfe11130cda8a7ce62831f21d894b244b01"
       },
       "music": {
         "file": "music-134808587111652.wav",
@@ -176,8 +176,8 @@
       "nameEvidence": "existing recording label; original title unconfirmed",
       "dance": {
         "file": "dance-98260902889120.json",
-        "bytes": 331630,
-        "sha256": "239b19827055ac6e3a007ba3d9d22acfb1d3b65933c44ccd25f151504dbe88f4"
+        "bytes": 663452,
+        "sha256": "d8f56219e9637c4106bdbe74ef109f1f2e25a799abfb60578e13d95420eb905b"
       },
       "music": {
         "file": "music-98260902889120.wav",
@@ -195,8 +195,8 @@
       "nameEvidence": "existing recording label; original title unconfirmed",
       "dance": {
         "file": "dance-86067433847393.json",
-        "bytes": 654356,
-        "sha256": "19d8512b5173a48a28e48db776ef9aa49046252af5415d958626e00872b96a3c"
+        "bytes": 1308904,
+        "sha256": "8022bf2c18b44601e598406b49a5043a845e17b6c68793cb293037c6b01f10fa"
       },
       "music": {
         "file": "music-86067433847393.wav",
@@ -214,8 +214,8 @@
       "nameEvidence": "Roblox asset title: carlos and cane",
       "dance": {
         "file": "dance-122216349954401.json",
-        "bytes": 1509657,
-        "sha256": "e80237c233a7e93fc3a738fb9a54762b4bb18e87c29c1a25ddfb343e32c2868e"
+        "bytes": 3019506,
+        "sha256": "4ef1b274164d52602c6b8a58514b110207891eb1207b6cce61e01cbe0a12d567"
       },
       "music": {
         "file": "music-122216349954401.wav",
@@ -233,8 +233,8 @@
       "nameEvidence": "Roblox asset title",
       "dance": {
         "file": "dance-107487854492935.json",
-        "bytes": 64383,
-        "sha256": "ad659eaf336493d644d398fa6ba2a45c8d6502323a8144dd7547ff12baa83493"
+        "bytes": 128958,
+        "sha256": "669d49418237431850f841274aadf93da523e9d528f23590e173970282f1de3d"
       },
       "music": {
         "file": "music-107487854492935.wav",
@@ -252,8 +252,8 @@
       "nameEvidence": "pose description; original title unconfirmed",
       "dance": {
         "file": "dance-114036336168567.json",
-        "bytes": 602372,
-        "sha256": "6f5650c6bf5592b917c6a5d2d50a36f1fd5939da3fd1ae4152969a38e1d30892"
+        "bytes": 1204936,
+        "sha256": "c75088091f3dbfd6ef4ebffec348f9163fe524dd23a268588ae09a4a53a943ca"
       },
       "music": {
         "file": "music-114036336168567.wav",
@@ -271,8 +271,8 @@
       "nameEvidence": "Roblox asset title",
       "dance": {
         "file": "dance-97941109008483.json",
-        "bytes": 336822,
-        "sha256": "bcc23f623c1de9c36fb10a607768f362fde43230db4c2be8043280ba1725fa83"
+        "bytes": 673836,
+        "sha256": "4a23a3c5dbf1d7ce6db7d5b549b9fb4a1e61131930e8062b0a03bfa04e34b137"
       },
       "music": null
     },
@@ -285,8 +285,8 @@
       "nameEvidence": "Roblox asset title",
       "dance": {
         "file": "dance-105708048353885.json",
-        "bytes": 47765,
-        "sha256": "c04b89a259ea26ac7d97e06d9b73cb8adcf91f5c69c4bee3a2c239fa66f33647"
+        "bytes": 95722,
+        "sha256": "61fe5b330d996a214ecadd87c7360b7622ffe3f8119bbbd685050d3d3944a509"
       },
       "music": {
         "file": "music-105708048353885.wav",
@@ -295,5 +295,9 @@
         "localFile": "Animations/Music/music-105708048353885.wav"
       }
     }
-  ]
+  ],
+  "encryption": {
+    "format": "OVITAR-DANCE-1",
+    "keyId": "13f45027ccbcf2c9"
+  }
 }
