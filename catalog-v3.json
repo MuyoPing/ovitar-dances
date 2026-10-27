@@ -332,6 +332,25 @@
         "sha256": "27d965b38e8335aa8ba687ceeba9cd07f5e777121e3f4e6b2261f3710b0af37f",
         "encrypted": true
       }
+    },
+    {
+      "id": "86897628655146",
+      "name": "네온 그루브",
+      "aliases": [
+        "Imported-Neon-Groove.json"
+      ],
+      "revision": "2026-10-27-neon-groove-v2",
+      "dance": {
+        "file": "dance-86897628655146.json",
+        "bytes": 5189546,
+        "sha256": "e44af895695e1c0424b0e0508087f2f4a67aec8e6b4ffba30919125f13bd499a"
+      },
+      "music": {
+        "file": "music-86897628655146-c985ab67600b.ovm",
+        "bytes": 4847408,
+        "sha256": "1e75bdb8f1ce17db233eeb3ada956e50143d3f71a790e0f65b0e1f06d642ac9e",
+        "encrypted": true
+      }
     }
   ],
   "encryption": {
