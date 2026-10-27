@@ -340,11 +340,11 @@
         "Imported-Neon-Groove.json",
         "Boombox-Dance.json"
       ],
-      "revision": "2026-10-27-neon-groove-v2",
+      "revision": "2026-10-27-neon-groove-v3",
       "dance": {
         "file": "dance-86897628655146.json",
-        "bytes": 5189546,
-        "sha256": "e44af895695e1c0424b0e0508087f2f4a67aec8e6b4ffba30919125f13bd499a"
+        "bytes": 5201754,
+        "sha256": "9e89454c353a971d235848e89556f5feacdc2b483be4e1b8bd7d122eba933292"
       },
       "music": {
         "file": "music-86897628655146-c985ab67600b.ovm",
