@@ -337,7 +337,8 @@
       "id": "86897628655146",
       "name": "네온 그루브",
       "aliases": [
-        "Imported-Neon-Groove.json"
+        "Imported-Neon-Groove.json",
+        "Boombox-Dance.json"
       ],
       "revision": "2026-10-27-neon-groove-v2",
       "dance": {
