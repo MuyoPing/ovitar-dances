@@ -352,6 +352,25 @@
         "sha256": "1e75bdb8f1ce17db233eeb3ada956e50143d3f71a790e0f65b0e1f06d642ac9e",
         "encrypted": true
       }
+    },
+    {
+      "id": "100744756186680",
+      "name": "히카리",
+      "aliases": [
+        "Imported-Hikari.json"
+      ],
+      "revision": "2026-10-28-hikari-v1",
+      "dance": {
+        "file": "dance-100744756186680.json",
+        "bytes": 914428,
+        "sha256": "4d92cc85df29dde3b0ae9bb1dc2278a8f8b2a14a6973df0319647cd11786d52b"
+      },
+      "music": {
+        "file": "music-100744756186680-0993c36bc172.ovm",
+        "bytes": 5666896,
+        "sha256": "48c7fe6a0b5483fca4f0c343d3094dc0888a133b06dc055b49ff9187773e81a6",
+        "encrypted": true
+      }
     }
   ],
   "encryption": {
